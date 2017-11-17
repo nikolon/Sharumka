@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ua">
+
+<head>
+    <meta charset="koi8-r">
+    <title>Доставка</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="vudstavka">
+        <img src="img/hoc.jpg" class="logo">
+        <div class="plus">
+           <a href="index.html">Назад</a>
+            <h2>Доставка №3825 в Якутске!</h2>
+            <br>
+            <h2>Еда натуральная!</h2>
+            <br>
+            <h2>Самая дешевая шаверма в округе!</h2>
+            <p>
+                Бюджет: шаверма малая, минералка 0.5, салфетка и вилка - 200р
+            </p>
+            <p>
+                Перекус: шаверма средняя, минералка 1л, жвачка, салфетка, стакан - 400р
+            </p>
+            <p>
+                Мажор: шаверма большая, пепси 1л, жвачка, салфетка, стакан, сухари - 500р
+            </p>
+            <h3>
+                Бюджет
+            </h3>
+            <a href="plata.html">
+            <img src="img/budget.jpg" style="width: 320px; height: 240px">
+            </a>
+            <h3>
+                Перекус
+            </h3>
+            <a href="plata.html">
+            <img src="img/perekus.jpg" style="width: 320px; height: 240px">
+            </a>
+            <h3>
+                Мажор
+            </h3>
+            <a href="plata.html">
+            <img src="img/major.jpg" style="width: 320px; height: 240px">
+            </a>
+        </div>
+    </div>
+</body>
+
+</html>
